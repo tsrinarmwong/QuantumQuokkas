@@ -27,3 +27,5 @@ Thumbs.db
 
 # Tailwind CSS generated files
 tailwind.config.js
+# ...existing entries...
+package-lock.json
